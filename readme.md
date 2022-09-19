@@ -5,9 +5,9 @@ I'm an experienced Software Engineer with solid 2 years of professional experien
 🤹 Skills: Javascript, Angular, AWS Amplify, appsync (graphQL), lambda, Cloudformation, SQS, KMS, NoSQL (dynamoDb), nodejs, express, event bridge, Typescript, HTML, CSS
 
 Checkout my articles at medium: 
-[waleed-ahmad.medium.com]([waleed-ahmad.medium.com)
+[https://waleed-ahmad.medium.com/](https://waleed-ahmad.medium.com/)
 
-StackOverflow: [stackoverflow.com/users/14981915/waleed-ahmad](stackoverflow.com/users/14981915/waleed-ahmad)
+StackOverflow: [https://stackoverflow.com/users/14981915/waleed-ahmad?tab=profile](https://stackoverflow.com/users/14981915/waleed-ahmad?tab=profile)
 
 Linkedin: [https://www.linkedin.com/in/waleed-ahmad-dev/](https://www.linkedin.com/in/waleed-ahmad-dev/) 
 
